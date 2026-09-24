@@ -1,0 +1,5 @@
+"tabla","archivo","url","version","fecha_descarga","tamano_bytes","md5"
+"proteinas","EpiGenes_main.csv","https://epifactors.autosome.org/public_data/v2.1/EpiGenes_main.csv","v2.1","2026-09-24 18:07",378810,"dac7bf971fb32cecf464067f67f54834"
+"complejos","EpiGenes_complexes.csv","https://epifactors.autosome.org/public_data/v2.1/EpiGenes_complexes.csv","v2.1","2026-09-24 18:07",40312,"21c502796965da1c3dca6652147da6ac"
+"histonas","EpiGenes_histones.csv","https://epifactors.autosome.org/public_data/v2.1/EpiGenes_histones.csv","v2.1","2026-09-24 18:07",24323,"3cc55032c8444c0440961ed43b4260ed"
+"lncrnas","EpiGenes_lncrnas.csv","https://epifactors.autosome.org/public_data/v2.1/EpiGenes_lncrnas.csv","v2.1","2026-09-24 18:07",38929,"4e30acbf8cce4f2202b485f2c9d65c4c"

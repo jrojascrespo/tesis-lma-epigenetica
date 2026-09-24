@@ -4,3 +4,9 @@
 .httr-oauth
 .DS_Store
 .quarto
+# Datos crudos: no se versionan (se regeneran con los scripts)
+datos/crudos/**/*.csv
+datos/crudos/**/*.txt
+
+# ...excepto los registros de descarga (son pequeños y documentan qué se usó)
+!datos/crudos/**/registro_descarga.csv
